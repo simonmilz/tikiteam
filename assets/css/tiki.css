@@ -1,0 +1,4 @@
+.navbar-brand img {
+    filter: brightness(0) invert(1);
+    margin-left: -16px;
+}
